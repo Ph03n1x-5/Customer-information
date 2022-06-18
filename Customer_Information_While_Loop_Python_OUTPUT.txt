@@ -1,0 +1,39 @@
+==================================================================
+CUSTOMER PURCHASE INFORMATION
+===================================================================
+CUSTOMER NAME PURCHASE AMOUNT
+===================================================================
+Do you wish to process a customer's information?[type 'y' or 'Y' otherwise enter 'no']
+y
+
+Enter Customer's name
+James Johnson
+How much did the customer spend on this item?
+300
+James Johnson $300.00
+Do you wish to process a customer's information? [tyoe 'y' or 'Y' otherwise enter ' no]
+y
+
+Enter Customer's name
+Mark Barnes
+How much did the customer spend on this item?
+15001.88
+Mark Barnes $15001.88
+Do you wish to process a customer's information? [tyoe 'y' or 'Y' otherwise enter ' no]
+y
+
+Enter Customer's name
+Mary Bishop
+How much did the customer spend on this item?
+13020
+Mary Bishop $13020.00
+Do you wish to process a customer's information? [tyoe 'y' or 'Y' otherwise enter ' no]
+n
+
+===================================================================
+Customer Total Purchases =       $28321.88
+===================================================================
+THE AVERAGE PURCHASE PRICE =  $9440.63
+===================================================================
+THIS PROGRAM IS COMPLETE - EDITED BY firstName lastName
+===================================================================
